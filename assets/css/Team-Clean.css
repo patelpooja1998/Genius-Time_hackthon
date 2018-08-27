@@ -1,0 +1,94 @@
+.team-clean {
+  color:#fff;
+  background:linear-gradient(135deg, #172a74, #21a9af);
+  background-color:#184e8e;
+  padding-bottom:30px;
+  padding:159px 0;
+ 
+}
+
+.team-clean p {
+  color:#fff;
+}
+
+.team-clean h2 {
+  font-weight:bold;
+  margin-bottom:40px;
+  padding-top:40px;
+  color:inherit;
+}
+
+@media (max-width:767px) {
+  .team-clean h2 {
+    margin-bottom:25px;
+    padding-top:25px;
+    font-size:24px;
+  }
+}
+
+.team-clean .intro {
+  font-size:16px;
+  max-width:500px;
+  margin:0 auto;
+}
+
+.team-clean .intro p {
+  margin-bottom:0;
+}
+
+.team-clean .people {
+  padding-bottom:40px;
+}
+
+.team-clean .item {
+  text-align:center;
+  padding-top:50px;
+}
+
+.team-clean .item .name {
+  font-weight:bold;
+  margin-top:28px;
+  margin-bottom:8px;
+  color:inherit;
+}
+
+.team-clean .item .title {
+  text-transform:uppercase;
+  font-weight:bold;
+  color:#d0d0d0;
+  letter-spacing:2px;
+  font-size:13px;
+  align-items: center;
+}
+
+.team-clean .item .description {
+  font-size:15px;
+  margin-top:15px;
+  margin-bottom:20px;
+  text-align: center;
+  align-items: center;
+}
+
+.team-clean .item img {
+  max-width:160px;
+  vertical-align: middle;
+
+}
+
+.team-clean .social {
+  font-size:30px;
+  color:#fff;
+}
+
+.team-clean .social a {
+  color:inherit;
+  margin:0 10px;
+  display:inline-block;
+  opacity:100;
+}
+
+.team-clean .social a:hover {
+  opacity:100;
+  color: yellow;
+}
+
